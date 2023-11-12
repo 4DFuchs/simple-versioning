@@ -1,0 +1,12 @@
+click==8.1.7
+gitdb==4.0.11
+GitPython==3.1.40
+jedi==0.19.1
+packaging==23.2
+parso==0.8.3
+pudb==2023.1
+Pygments==2.16.1
+semver==3.0.2
+smmap==5.0.1
+urwid==2.2.3
+urwid-readline==0.13
